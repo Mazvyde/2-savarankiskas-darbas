@@ -1,0 +1,3 @@
+C:\Users\mazvy\source\repos\MyProject\MyProject\x64\Debug\MyProject.vcxproj.AssemblyReference.cache
+C:\Users\mazvy\source\repos\MyProject\MyProject\x64\Debug\MyProject.Form1.resources
+C:\Users\mazvy\source\repos\MyProject\MyProject\x64\Debug\MyProject.vcxproj.GenerateResource.cache
